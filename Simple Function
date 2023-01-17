@@ -1,0 +1,7 @@
+def avg(n1, n2, n3):
+    return ((n1+n2+n3)/3)
+
+average = avg(20, 5, 5)
+print("The average is", average)
+
+
